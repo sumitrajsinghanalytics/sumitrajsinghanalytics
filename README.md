@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋, I'm Sumit Raj Singh
 
-<!--
-**sumitrajsinghanalytics/sumitrajsinghanalytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (Data Science & AI) | IBM Collaboration
 
-Here are some ideas to get you started:
+📊 Aspiring Data Analyst passionate about transforming raw data into meaningful insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- Microsoft Excel
+- SQL
+- Power BI
+- Python
+- Data Cleaning
+- Data Visualization
+- Statistics
+
+## 🌱 Currently Learning
+
+- Python for Data Analysis
+- Power BI
+- SQL
+- Machine Learning
+
+## 📂 Featured Projects
+
+Coming Soon...
+
+## 📫 Contact
+
+📧 sumitrajsingh.analytics@gmail.com
+
+## 🌍 Connect with Me
+
+LinkedIn (Coming Soon)
+
