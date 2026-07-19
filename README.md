@@ -23,7 +23,11 @@
 
 ## 📂 Featured Projects
 
-Coming Soon...
+✅ Excel Call Center Performance Dashboard
+
+Interactive Excel Dashboard using Pivot Tables, Pivot Charts, VBA, and Form Controls.
+
+🔗 https://github.com/sumitrajsinghanalytics/Excel-Call-Center-Performance-Dashboard
 
 ## 📫 Contact
 
